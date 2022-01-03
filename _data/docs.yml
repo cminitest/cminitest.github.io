@@ -1,11 +1,21 @@
-- title: Getting Started
+- title: Minitest
   docs:
   - home
-  - themes
-  - customization
 
-- title: Examples
+- title: Installation
   docs:
-  - cheatsheet
-  - font-awesome
-  - bootstrap
+  - install-linux
+  - install-macos
+  - install-windows
+
+- title: Configuration
+
+- title: Constructs
+
+- title: Assertions
+
+- title: Fixtures
+
+- title: Mocks
+
+- title: Extensions

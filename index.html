@@ -64,4 +64,26 @@ layout: default
             <p class="text-center">Minitest provides default assertions for many of the default C data types.</p>
         </div>
     </div>
+    <hr />
+</section>
+
+<section class="container latest-news">
+  <div class="row">
+      <div>
+        <h2 class="header-light regular-pad">What's New</h2>
+      </div>
+  </div>
+  <div class="row">
+  {% for post in site.posts limit:3 %}
+    <article class="col-sm-4">
+      <header>
+        <h4><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h4>
+        <div class="byline">
+          <address class="author">Posted on <time>{{ post.date | date: "%b %-d, %Y" }}</time> by <em>{{ post.author }}</em></address>
+          <p>{{ post.summary }}</p>
+        </div>
+      </header>
+    </article>
+  {% endfor %}
+  </div>
 </section>

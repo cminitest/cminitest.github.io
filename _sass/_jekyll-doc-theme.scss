@@ -55,6 +55,11 @@ html {
       font-family: monospace;
     }
   }
+  section.latest-news {
+    article:not(:last-of-type) {
+      border-right: 2px solid $gray-lighter;
+    }
+  }
   .footer {
     position: absolute;
     bottom: 0;

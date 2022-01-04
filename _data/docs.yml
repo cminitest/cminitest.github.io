@@ -4,6 +4,7 @@
 
 - title: Installation
   docs:
+  - build-configuration
   - install-linux
   - install-macos
   - install-windows

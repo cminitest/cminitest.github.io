@@ -61,5 +61,5 @@ make tests ; ./bin/testsuite
 The default make command will run all of the above commands. Use only after reviewing the generated Makefile.
 
 ```bash
-sudo make
+make
 ```

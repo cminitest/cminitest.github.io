@@ -61,7 +61,7 @@ configure will create the final makefile, filling in variables and C flags with 
 
 ### 3. Build the shared library
 
-make sharedlib will compile the minitest library to `lib/libminitest.so`.
+make sharedlib will compile the minitest library to `lib/libminitest.dll`.
 
 ```bash
 make sharedlib

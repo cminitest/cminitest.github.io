@@ -12,6 +12,13 @@
 - title: Configuration
 
 - title: Constructs
+  docs:
+  - describe-construct
+  - context-construct
+  - when-construct
+  - given-construct
+  - and-construct
+  - it-construct
 
 - title: Assertions
 

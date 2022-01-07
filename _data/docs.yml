@@ -21,6 +21,18 @@
   - it-construct
 
 - title: Assertions
+  docs:
+  - assertions-overview
+  - assertions-equal
+  - assertions-greater-than
+  - assertions-gte
+  - assertions-less-than
+  - assertions-lte
+  - assertions-inrange
+  - assertions-be-null
+  - assertions-be-true
+  - assertions-be-false
+  - assertions-been-called
 
 - title: Fixtures
 

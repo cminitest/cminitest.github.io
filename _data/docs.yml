@@ -35,6 +35,10 @@
   - assertions-been-called
 
 - title: Fixtures
+  docs:
+  - fixtures-overview
+  - fixtures-before
+  - fixtures-after
 
 - title: Mocks
 

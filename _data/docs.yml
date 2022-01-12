@@ -9,8 +9,6 @@
   - install-macos
   - install-windows
 
-- title: Configuration
-
 - title: Constructs
   docs:
   - describe-construct
@@ -41,5 +39,10 @@
   - fixtures-after
 
 - title: Mocks
+  docs:
+  - mocks-overview
 
 - title: Extensions
+  docs:
+  - extensions-overview
+  - extensions-expect

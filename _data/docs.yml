@@ -41,6 +41,7 @@
 - title: Mocks
   docs:
   - mocks-overview
+  - mocks-mocking
 
 - title: Extensions
   docs:

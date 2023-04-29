@@ -25,8 +25,7 @@ redirect_from: /docs/index.html
 
 - An elegant syntax
 - A variety of default assertions
-- Mocks
-- Fixtures
+- Signal Capturing
 - Extensible
 - Configurable Output Formats
 

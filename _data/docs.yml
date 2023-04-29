@@ -11,6 +11,7 @@
 
 - title: Constructs
   docs:
+  - keywords
   - describe-construct
   - context-construct
   - when-construct
@@ -30,7 +31,6 @@
   - assertions-be-null
   - assertions-be-true
   - assertions-be-false
-  - assertions-been-called
 
 - title: Fixtures
   docs:
@@ -38,12 +38,18 @@
   - fixtures-before
   - fixtures-after
 
-- title: Mocks
-  docs:
-  - mocks-overview
-  - mocks-mocking
-
 - title: Extensions
   docs:
   - extensions-overview
-  - extensions-expect
+  - extensions-example
+
+- title: Signals
+  docs:
+  - signals-overview
+
+- title: Configuration
+  docs:
+  - config-definitions
+  - config-output
+  - config-logging
+  
